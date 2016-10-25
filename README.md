@@ -2,8 +2,7 @@
 
 <img src="skinshot.png"/>
 
-#### v1.1.
-
+#### v1.1.1
 - New skinshot
 
 #### v1.1.
